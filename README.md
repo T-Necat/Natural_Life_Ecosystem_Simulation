@@ -1,4 +1,5 @@
 # Ecosystem Simulation Project
+🐍 Python | 🚀 Streamlit | 📊 Pandas | 📈 Plotly | 🖼️ Matplotlib | 🧮 NumPy
 
 ![Streamlit Interface Demo](demo.gif)
 
